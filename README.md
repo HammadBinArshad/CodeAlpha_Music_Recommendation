@@ -72,8 +72,7 @@ The dataset includes 170,000+ rows of songs with features:
 
 ## 📬 Submission
 
-✅ GitHub Link: [Paste Your Repo Link Here]  
-📽️ Shared on LinkedIn: [Your LinkedIn Post Link]
+📽️ Shared on LinkedIn: https://www.linkedin.com/posts/hammad-bin-arshad-6997a521a_github-hammadbinarshadcodealphamusicrecommendation-activity-7331294092364005376-Su2K?utm_source=share&utm_medium=member_android&rcm=ACoAADdKQ5UBip_tNN6LrQqm4OX9X5hdZfE9svU
 
 ---
 
@@ -85,6 +84,5 @@ This project was completed as part of the **Machine Learning Internship** by [Co
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**HAMMAD BIN ARSHAD**  
 ML Intern @ CodeAlpha  
-LinkedIn: [Your LinkedIn Profile]
